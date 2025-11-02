@@ -1,2 +1,1 @@
-# Water-in-Godot-Engine
-Water in Godot Engine
+This asset will help create water in Godot Engine. To do this, you need to download the ZIP file, extract the Addons folder, and copy it into your Godot project. Then, on the main scene of your project, if you created a 3D project, instantiate the child scene 'water_blocks', and if it's 2D, instantiate the child node 'water'.
